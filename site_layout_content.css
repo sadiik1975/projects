@@ -1,0 +1,54 @@
+#site_layout_content {
+	background-color: #030303;
+	height: 382px;
+	width: 899px;
+}
+#site_layout_middleContent {
+	background-color: #000;
+	height: 295px;
+	width: 596px;
+	
+}
+
+
+
+/* slider styles */
+/****************************************************************************/
+
+
+#s3slider {
+	width:900px;
+	height:334;
+    position:relative;
+	overflow:hidden;
+}
+#s3sliderContent {
+	width:900px;
+	height:334;
+	position:absolute;
+	margin-left:0;
+	left: 3px;
+	top: 1px;
+	color: #D6D6D6;
+}
+.s3sliderImage {
+	float:left;
+	position:relative;
+	display:none;
+}
+.s3sliderImage span {
+	position:absolute;
+	font:Arial, Helvetica, sans-serif;
+	font-size:17px
+	padding:10px 13px;
+	color:#FFF;
+	baackground-color:#000;
+	width: 900px;
+	display:none;
+
+
+}
+
+.clear {
+	clear:both;
+}

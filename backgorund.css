@@ -1,0 +1,19 @@
+@charset "utf-8";
+#backgorund {
+	background-attachment: fixed;
+	background-image: url(last%20round%20fighter.gif);
+	background-repeat: no-repeat;
+	background-position: center center;
+	
+}
+#wrapper {
+	margin: auto;
+	padding: 0px;
+	height: 1160px;
+	width: 960px;
+	clear: inherit;
+}
+#backgorund {
+	margin: 0px;
+	padding: 0px;
+}
